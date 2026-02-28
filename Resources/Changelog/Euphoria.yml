@@ -796,3 +796,15 @@ Entries:
       message: Added Nightvision to Shadowkin and Felinids
   id: 98
   time: '2026-02-28T22:25:04.0000000+00:00'
+- author: Raikyr0
+  changes:
+    - type: Tweak
+      message: >-
+        Tweaked Surgery to no longer deal 500 damage on steps, you aren't an all
+        thumbs clown.
+    - type: Tweak
+      message: Tuned the dirtiness mechanic to half it's normal rate.
+    - type: Tweak
+      message: Organ transplants now once again fix poison, airloss and rot.
+  id: 99
+  time: '2026-02-28T22:26:21.0000000+00:00'
