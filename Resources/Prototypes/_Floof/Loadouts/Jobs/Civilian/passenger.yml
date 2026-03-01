@@ -245,6 +245,41 @@
   equipment:
     jumpsuit: ClothingUniformThongCoderValid
 
+- type: loadout
+  id: ClothingUniformMNKDressBlack
+  equipment:
+    jumpsuit: ClothingUniformMNKDressBlack
+
+- type: loadout
+  id: ClothingUniformMNKOfficeSkirt
+  equipment:
+    jumpsuit: ClothingUniformMNKOfficeSkirt
+
+- type: loadout
+  id: ClothingUniformMNKGymBra
+  equipment:
+    jumpsuit: ClothingUniformMNKGymBra
+
+- type: loadout
+  id: ClothingUniformMNKUnderGarment
+  equipment:
+    jumpsuit: ClothingUniformMNKUnderGarment
+
+- type: loadout
+  id: ClothingUniformMNKBlackOveralls
+  equipment:
+    jumpsuit: ClothingUniformMNKBlackOveralls
+
+- type: loadout
+  id: ClothingUniformMNKBlackShoulder
+  equipment:
+    jumpsuit: ClothingUniformMNKBlackShoulder
+
+- type: loadout
+  id: UniformNudityPermit
+  equipment:
+    jumpsuit: ClothingUniformNudityPermit
+
 # socks
 - type: loadout
   id: ClothingSocksRainbow
@@ -303,29 +338,9 @@
     shoes: ClothingShoesBootsJack
 
 - type: loadout
-  id: ClothingShoesBootsCowboyBlack
-  equipment:
-    shoes: ClothingShoesBootsCowboyBlack
-
-- type: loadout
   id: ClothingShoesBootsCowboyFancy
   equipment:
     shoes: ClothingShoesBootsCowboyFancy
-
-- type: loadout
-  id: ClothingShoesBootsCowboyWhite
-  equipment:
-    shoes: ClothingShoesBootsCowboyWhite
-
-- type: loadout
-  id: ClothingShoesBootsCowboyBrown
-  equipment:
-    shoes: ClothingShoesBootsCowboyBrown
-
-- type: loadout
-  id: ClothingShoesHighheelBoots
-  equipment:
-    shoes: ClothingShoesHighheelBoots
 
 - type: loadout
   id: ClothingClothWrap
@@ -607,36 +622,41 @@
   equipment:
     neck: ClothingNeckNeckerchief
 
-# trinkets
 - type: loadout
   id: GuitarInstrument
-  equipment:
-    back: AcousticGuitarInstrument
+  storage:
+    back:
+    - AcousticGuitarInstrument
 
 - type: loadout
   id: BassGuitarInstrument
-  equipment:
-    back: BassGuitarInstrument
+  storage:
+    back:
+    - BassGuitarInstrument
 
 - type: loadout
   id: ElectricGuitarInstrument
-  equipment:
-    back: ElectricGuitarInstrument
+  storage:
+    back:
+    - ElectricGuitarInstrument
 
 - type: loadout
   id: RockGuitarInstrument
-  equipment:
-    back: RockGuitarInstrument
+  storage:
+    back:
+    - RockGuitarInstrument
 
 - type: loadout
   id: HarmonicaInstrument
-  equipment:
-    back: HarmonicaInstrument
+  storage:
+    back:
+    - HarmonicaInstrument
 
 - type: loadout
   id: TrumpetInstrument
-  equipment:
-    back: TrumpetInstrument
+  storage:
+    back:
+    - TrumpetInstrument
 
 - type: loadout
   id: CheapLighter
@@ -708,131 +728,163 @@
 
 - type: loadout
   id: CrowbarRed
-  equipment:
-    back: CrowbarRed
+  storage:
+    back:
+    - CrowbarRed
 
 - type: loadout
   id: DoubleEmergencyOxygenTankFilled
-  equipment:
-    back: DoubleEmergencyOxygenTankFilled
+  storage:
+    back:
+    - DoubleEmergencyOxygenTankFilled
 
 - type: loadout
   id: DoubleEmergencyNitrogenTankFilled
-  equipment:
-    back: DoubleEmergencyNitrogenTankFilled
+  storage:
+    back:
+    - DoubleEmergencyNitrogenTankFilled
 
 - type: loadout
   id: DoubleEmergencyWaterVaporTankFilled
-  equipment:
-    back: DoubleEmergencyWaterVaporTankFilled
+  storage:
+    back:
+    - DoubleEmergencyWaterVaporTankFilled
 
 - type: loadout
   id: MedkitFilled
-  equipment:
-    back: MedkitFilled
+  storage:
+    back:
+    - MedkitFilled
 
 - type: loadout
   id: LunchboxGenericFilledRandom
-  equipment:
-    back: LunchboxGenericFilledRandom
+  storage:
+    back:
+    - LunchboxGenericFilledRandom
 
 - type: loadout
   id: CrayonBrush
-  equipment:
-    back: CrayonBrush
+  storage:
+    back:
+    - CrayonBrush
 
 - type: loadout
   id: FlashlightLantern
-  equipment:
-    back: FlashlightLantern
+  storage:
+    back:
+    - FlashlightLantern
 
 #lewd trinkets
 - type: loadout
   id: AvianDildo
-  equipment:
-    back: AvianDildo
+  storage:
+    back:
+    - AvianDildo
 
 - type: loadout
   id: CanineDildo
-  equipment:
-    back: CanineDildo
+  storage:
+    back:
+    - CanineDildo
 
 - type: loadout
   id: CanineDildoRed
-  equipment:
-    back: CanineDildoRed
+  storage:
+    back:
+    - CanineDildoRed
 
 - type: loadout
   id: NormalDildo
-  equipment:
-    back: NormalDildo
+  storage:
+    back:
+    - NormalDildo
 
 - type: loadout
   id: DoubleDildo
-  equipment:
-    back: DoubleDildo
+  storage:
+    back:
+    - DoubleDildo
 
 - type: loadout
   id: DragonDildo
-  equipment:
-    back: DragonDildo
+  storage:
+    back:
+    - DragonDildo
 
 - type: loadout
   id: HorseDildo
-  equipment:
-    back: HorseDildo
+  storage:
+    back:
+    - HorseDildo
 
 - type: loadout
   id: TentacleDildo
-  equipment:
-    back: TentacleDildo
+  storage:
+    back:
+    - TentacleDildo
 
 - type: loadout
   id: LewdVibeRed
-  equipment:
-    back: LewdVibeRed
+  storage:
+    back:
+    - LewdVibeRed
 
 - type: loadout
   id: LewdVibePink
-  equipment:
-    back: LewdVibePink
+  storage:
+    back:
+    - LewdVibePink
 
 - type: loadout
   id: LewdVibeTeal
-  equipment:
-    back: LewdVibeTeal
+  storage:
+    back:
+    - LewdVibeTeal
 
 - type: loadout
   id: LewdVibeGreen
-  equipment:
-    back: LewdVibeGreen
+  storage:
+    back:
+    - LewdVibeGreen
 
 - type: loadout
   id: LewdVibeYellow
-  equipment:
-    back: LewdVibeYellow
+  storage:
+    back:
+    - LewdVibeYellow
 
 - type: loadout
   id: LewdFleshlightGreen
-  equipment:
-    back: LewdFleshlightGreen
+  storage:
+    back:
+    - LewdFleshlightGreen
 
 - type: loadout
   id: LewdFleshlightPink
-  equipment:
-    back: LewdFleshlightPink
+  storage:
+    back:
+    - LewdFleshlightPink
 
 - type: loadout
   id: LewdFleshlightRed
-  equipment:
-    back: LewdFleshlightRed
+  storage:
+    back:
+    - LewdFleshlightRed
 
 - type: loadout
   id: LewdFleshlightTeal
-  equipment:
-    back: LewdFleshlightTeal
+  storage:
+    back:
+    - LewdFleshlightTeal
 
 - type: loadout
   id: LewdFleshlightYellow
-  equipment:
-    back: LewdFleshlightYellow
+  storage:
+    back:
+    - LewdFleshlightYellow
+
+- type: loadout
+  id: LewdWand
+  storage:
+    back:
+    - LewdWand
