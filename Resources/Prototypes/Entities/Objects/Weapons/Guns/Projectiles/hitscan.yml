@@ -199,7 +199,7 @@
   - type: HitscanBasicDamage
     damage:
       types:
-        Heat: 30
+        Heat: 70 # Euphoria - was 30. Normally its supposed to scale with power input but because goob refactored their energy system its harder to integrate the scaling damage.
   - type: HitscanBasicVisuals
     muzzleFlash:
       sprite: _Goobstation/Structures/Machines/PTL/pt_beam.rsi

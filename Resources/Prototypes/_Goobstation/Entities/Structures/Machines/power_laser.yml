@@ -36,10 +36,10 @@
   - type: RadiationSource
   - type: Appearance
   - type: PowerNetworkBattery
-    maxChargeRate: 1000000000 # yeah
+    maxChargeRate: 1000000 # 1MJ Shitcode had this at 1GW before
   - type: Battery
     netsync: false
-    maxCharge: 1000000000 # should be 1gj. i think. i hope. i pray.
+    maxCharge: 100000000 # 100MJ tops
     startingCharge: 0
   - type: ExaminableBattery
   - type: BatteryCharger
