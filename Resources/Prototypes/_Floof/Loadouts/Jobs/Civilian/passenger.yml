@@ -946,6 +946,14 @@
   storage:
     back:
     - CrayonBrush
+  groupBy: "art"
+
+- type: loadout
+  id: CrayonMagic
+  storage:
+    back:
+    - CrayonMagic
+  groupBy: "art"
 
 - type: loadout
   id: FlashlightLantern
