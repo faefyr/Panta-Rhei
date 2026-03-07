@@ -1123,3 +1123,11 @@ Entries:
       message: Added two new drinks referencing two well-known characters.
   id: 139
   time: '2026-03-07T06:25:09.0000000+00:00'
+- author: Raikyr0
+  changes:
+    - type: Tweak
+      message: >-
+        Tricord now heals a minuscule amount of rads to deal with medibots
+        injecting people on loop for 0.01 rads.
+  id: 140
+  time: '2026-03-07T09:52:28.0000000+00:00'
