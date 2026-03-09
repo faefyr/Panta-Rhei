@@ -1245,3 +1245,11 @@ Entries:
       message: All borgs should be able to crawl now.
   id: 152
   time: '2026-03-08T02:37:17.0000000+00:00'
+- author: ScarlettJFG
+  changes:
+    - type: Fix
+      message: Slimefolk now have an anti-theft system called wearing clothes
+    - type: Add
+      message: Removal sound for taking things out of Slimefolk internal storage.
+  id: 153
+  time: '2026-03-09T09:40:45.0000000+00:00'
