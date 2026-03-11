@@ -1295,3 +1295,11 @@ Entries:
         or just not playing sounds at all.
   id: 157
   time: '2026-03-10T23:29:45.0000000+00:00'
+- author: friendofbugs
+  changes:
+    - type: Tweak
+      message: >-
+        Humans and Harpies can now have any skin color, rather than being
+        limited to human tones.
+  id: 158
+  time: '2026-03-11T05:16:45.0000000+00:00'
