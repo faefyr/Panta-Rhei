@@ -1407,3 +1407,17 @@ Entries:
         loadout.
   id: 172
   time: '2026-03-19T08:57:19.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: Added scarfs and pride scarfs to loadouts.
+    - type: Add
+      message: Added a turtlenecks and other suits to loadouts.
+    - type: Fix
+      message: 'Fixed some jobs not having their shoes updated in loadouts. '
+    - type: Remove
+      message: >-
+        Removed detective trench coat from the autodrobe due to it having armor
+        values again.
+  id: 173
+  time: '2026-03-19T09:19:26.0000000+00:00'
