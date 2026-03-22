@@ -1505,3 +1505,9 @@ Entries:
         kudzu was to be destroyed while your character was walking through it.
   id: 184
   time: '2026-03-22T02:39:51.0000000+00:00'
+- author: Raikyr0
+  changes:
+    - type: Fix
+      message: Fixed Heart Surgery which is supposed to unrot to once again unrot.
+  id: 185
+  time: '2026-03-22T02:53:26.0000000+00:00'
