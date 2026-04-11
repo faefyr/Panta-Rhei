@@ -169,6 +169,7 @@
   name: loadout-group-passenger-outerclothing
   loadouts:
   - OuterCoatBomber
+  - OuterLustroCoat
   - OuterCoatMNKWhiteHoodie
   - OuterHoodieBlack
   - OuterHoodieGrey
