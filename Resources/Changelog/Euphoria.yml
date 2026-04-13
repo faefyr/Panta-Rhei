@@ -2081,3 +2081,19 @@ Entries:
       message: The curator help button is now available in the lobby.
   id: 261
   time: '2026-04-13T22:23:03.0000000+00:00'
+- author: ScarlettJFG
+  changes:
+    - type: Add
+      message: Geras can pick things up! HANDS (Or tendrils really...)
+    - type: Add
+      message: Geras can drag things! Without the use of a hand slot!
+    - type: Add
+      message: Geras can have things pulled out of their tendrils and "ID" slot.
+    - type: Tweak
+      message: >-
+        Geras also get an ID slot. It does show on their face/hands, but this
+        makes sense.
+    - type: Fix
+      message: Slimes get hurt by water *properly*
+  id: 262
+  time: '2026-04-13T22:35:23.0000000+00:00'
