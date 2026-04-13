@@ -2036,3 +2036,13 @@ Entries:
       message: Gas Canisters now use newer, more appealing sprites.
   id: 255
   time: '2026-04-13T04:59:09.0000000+00:00'
+- author: SyaoranFox
+  changes:
+    - type: Add
+      message: Document Printer
+    - type: Add
+      message: Document Printer flatpack to head lockers
+    - type: Add
+      message: Floof documents as part of locale
+  id: 256
+  time: '2026-04-13T05:07:09.0000000+00:00'
