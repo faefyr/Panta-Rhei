@@ -2240,3 +2240,9 @@ Entries:
       message: 'Mapping for non-hosts no longer disables events or auto evac '
   id: 280
   time: '2026-04-18T23:17:44.0000000+00:00'
+- author: SyaoranFox
+  changes:
+    - type: Remove
+      message: Player ability to call votes
+  id: 281
+  time: '2026-04-19T08:57:51.0000000+00:00'
