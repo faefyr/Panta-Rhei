@@ -2266,3 +2266,13 @@ Entries:
         loadouts.
   id: 284
   time: '2026-04-19T16:24:23.0000000+00:00'
+- author: Raikyr0
+  changes:
+    - type: Fix
+      message: >-
+        Fixed IPCs missing a component that allowed them to talk to the Oracle,
+        despite being psionic.
+    - type: Fix
+      message: Fixed IPCs and Arachne not being able to offer things.
+  id: 285
+  time: '2026-04-21T07:46:48.0000000+00:00'
