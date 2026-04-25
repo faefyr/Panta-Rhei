@@ -2410,3 +2410,9 @@ Entries:
         to keep the dearly departed in a unceremonial body bag.
   id: 300
   time: '2026-04-24T22:42:17.0000000+00:00'
+- author: Raikyr0
+  changes:
+    - type: Tweak
+      message: Tweaked Interdyne Herbals description and contents.
+  id: 301
+  time: '2026-04-25T09:16:50.0000000+00:00'
